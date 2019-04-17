@@ -173,6 +173,6 @@ void KEYS()
 # Result
 
 
-![System](\system.jpg)
+![system](system.jpg)
 
-![gear](\gear.jpg)
+![gear](gear.jpg)
