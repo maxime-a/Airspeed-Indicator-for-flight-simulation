@@ -1,14 +1,15 @@
 
+
 /* 
     This code is in the public domain
     For use with "Link2fs_Multi"
     Jimspage.co.nz
-    My thanks to the Guys that gave me snippets of code. 
+    My thanks to the Guys that gave me snippets of code, i've just modified to have a servo for the airspeed. 
     
     This sets the complete Arduino card for "keys" input except pin 13.
     Attach a switch to any pin (except 13) and program that pin in "Multi"
-    Pin 13 is used for the servo to indicate flaps.
-    For this servo code to work you must tick "<G" (Flap position) in Multi.
+    Pin 13 is used for the servo to indicate airspeed.
+    For this servo code to work you must tick "<P" (airspeed) in Multi.
     Everything to do with "Keys"  starts with a "K" in this code.
 
 */
