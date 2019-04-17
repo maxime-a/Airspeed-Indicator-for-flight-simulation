@@ -170,7 +170,7 @@ void KEYS()
   Kstringoldstate = Kstringnewstate;
 }
 ```
-# Result
+## Result
 
 
 ![system](system.jpg)
