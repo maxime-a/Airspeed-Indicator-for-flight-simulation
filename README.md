@@ -170,3 +170,9 @@ void KEYS()
   Kstringoldstate = Kstringnewstate;
 }
 ```
+# Result
+
+
+![System](\system.jpg)
+
+![gear](\gear.jpg)
